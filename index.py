@@ -3,6 +3,7 @@ import wx
 import os
 import time
 
+"""hi"""
 
 class MainWindow(wx.Frame):
     def __init__(self, parent, title):
